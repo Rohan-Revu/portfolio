@@ -33,7 +33,8 @@ A sleek, responsive, and high-performance portfolio website built with **Bootstr
 
 ### 1️⃣ Clone the repository
 ```
-git clone [https://github.com/Rohan-Revu/Portfolio.git](https://github.com/Rohan-Revu/Portfolio.git)
+git clone [httpgit clone https://github.com/Rohan-Revu/Portfolio.git
+
 ```
 
 ## 🌐 Live Demo
