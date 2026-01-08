@@ -2,7 +2,6 @@
 
 A sleek, responsive, and high-performance portfolio website built with **Bootstrap 5**, **Modern CSS**, and **Google Fonts**. This project showcases my skills as a Computer Science undergraduate and highlights my recent work in Full-Stack development.
 
-![Portfolio Preview](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)
 ![Tech Stack](https://img.shields.io/badge/Tech-HTML%20|%20CSS%20|%20Bootstrap-blue?style=for-the-badge)
 
 ## 🌟 Features
